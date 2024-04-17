@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "type": "Sedan",
+    "country": "Japan",
+    "manufacturer": "Toyota",
+    "performance": {
+      "topSpeed": 180,
+      "cruiseSpeed": 120,
+      "range": 500
+    },
+    "features": [
+      "Automatic Transmission",
+      "Leather Seats",
+      "Navigation System",
+      "Backup Camera"
+    ],
+    "imageUrl": "https://auto2000.co.id/berita-dan-tips/_next/image?url=https%3A%2F%2Fastradigitaldigiroomuat.blob.core.windows.net%2Fstorage-uat-001%2Fkelebihan-toyota-camry.png&w=3840&q=75"
+  },
+  {
+    "id": 2,
+    "name": "Ford Mustang",
+    "type": "Sports Car",
+    "country": "United States",
+    "manufacturer": "Ford",
+    "performance": {
+      "topSpeed": 250,
+      "cruiseSpeed": 150,
+      "range": 450
+    },
+    "features": [
+      "Manual Transmission",
+      "Rear-Wheel Drive",
+      "Sports Suspension",
+      "Convertible Top"
+    ],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ford_Mustang_VI_IMG_2513.jpg/1200px-Ford_Mustang_VI_IMG_2513.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BMW X5",
+    "type": "SUV",
+    "country": "Germany",
+    "manufacturer": "BMW",
+    "performance": {
+      "topSpeed": 200,
+      "cruiseSpeed": 140,
+      "range": 550
+    },
+    "features": [
+      "All-Wheel Drive",
+      "Panoramic Sunroof",
+      "Heated Seats",
+      "Gesture Control"
+    ],
+    "imageUrl": "https://imgcdn.oto.com/large/gallery/exterior/3/2150/bmw-x5-front-angle-low-view-833566.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Honda Civic",
+    "type": "Compact Car",
+    "country": "Japan",
+    "manufacturer": "Honda",
+    "performance": {
+      "topSpeed": 170,
+      "cruiseSpeed": 110,
+      "range": 480
+    },
+    "features": [
+      "Fuel Efficient",
+      "Lane Keeping Assist",
+      "Apple CarPlay",
+      "Android Auto"
+    ],
+    "imageUrl": "https://www.otoinfo.id/wp-content/uploads/2024/02/Wow-Keunggulan-Revolusioner-All-New-Honda-Civic-Type-R-2024-Bikin-Mata-Melotot-Apa-Saja-Fitur-dan-Performa-Memukau.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Audi A4",
+    "type": "Luxury Sedan",
+    "country": "Germany",
+    "manufacturer": "Audi",
+    "performance": {
+      "topSpeed": 190,
+      "cruiseSpeed": 130,
+      "range": 520
+    },
+    "features": [
+      "Quattro All-Wheel Drive",
+      "Virtual Cockpit",
+      "Bang & Olufsen Sound System",
+      "Adaptive Cruise Control"
+    ],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg/1200px-Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg"
+  }
+]
